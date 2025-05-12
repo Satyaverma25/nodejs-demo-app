@@ -1,13 +1,43 @@
-<<<<<<< HEAD
-# Item Management System
+Item Management System
 
-A basic Node.js project deployed using GitHub Actions and Docker.
+A simple Node.js-based Item Management System deployed using a fully automated CI/CD pipeline with **GitHub Actions** and **DockerHub**.
 
-## Features:
-- Express-based backend
-- CI/CD pipeline using GitHub Actions
-- Dockerized and auto-published to DockerHub
-=======
-# nodejs-demo-app
-A web application that helps businesses track, manage, and optimize their inventory.
->>>>>>> e84c997de93a078073026ed6912044f8a1d4d4e0
+---
+
+## 📦 Project Features
+
+- 📁 Node.js + Express backend
+- 🐳 Dockerized application
+- ⚙️ CI/CD pipeline using GitHub Actions
+- 🚀 Docker image automatically built and pushed to DockerHub
+- ✅ Simple REST API setup
+
+---
+
+## 🛠️ Tech Stack
+
+- **Node.js**
+- **Express**
+- **Docker**
+- **GitHub Actions**
+- **DockerHub**
+
+---
+
+## 📁 Folder Structure
+
+.
+├── Dockerfile
+
+├── index.js
+
+├── package.json
+
+├── .github
+
+│ └── workflows
+
+│ └── main.yml
+
+└── README.md
+
