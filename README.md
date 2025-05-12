@@ -28,10 +28,16 @@ A simple Node.js-based Item Management System deployed using a fully automated C
 
 .
 ├── Dockerfile
+
 ├── index.js
+
 ├── package.json
+
 ├── .github
+
 │ └── workflows
+
 │ └── main.yml
+
 └── README.md
 
