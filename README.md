@@ -9,7 +9,7 @@ A simple Node.js-based Item Management System deployed using a fully automated C
 - 📁 Node.js + Express backend
 - 🐳 Dockerized application
 - ⚙️ CI/CD pipeline using GitHub Actions
-- 🚀 Docker image automatically built and pushed to DockerHub
+- 🚀 Docker image automatically built and pushed to dockerHub
 - ✅ Simple REST API setup
 
 ---
